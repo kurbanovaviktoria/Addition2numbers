@@ -13,7 +13,7 @@ public class Main {
         System.out.println("Введите первое число");
         a = sc.nextInt();//Считываем первое число
 
-        System.out.println("Введите второе число");
+        System.out.println("Введите  число");
         b = sc.nextInt();//Считываем второе число
 
         c = a + b;
